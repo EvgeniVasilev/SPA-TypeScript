@@ -1,0 +1,3 @@
+class Australia {
+}
+new Australia();
